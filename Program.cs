@@ -12,6 +12,14 @@ namespace IterationStatements
                 WriteLine(x);
                 x++;
             }
+            string password = string.Empty;
+            do
+            {
+                Write("Enter your password: ");
+                password = ReadLine();
+            }
+            while (password != "Pa$$w0rd");
+            WriteLine("Correct");
         }
     }
 }
