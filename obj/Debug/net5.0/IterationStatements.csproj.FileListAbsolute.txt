@@ -1,0 +1,15 @@
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/IterationStatements/bin/Debug/net5.0/IterationStatements.deps.json
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/IterationStatements/bin/Debug/net5.0/IterationStatements.runtimeconfig.json
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/IterationStatements/bin/Debug/net5.0/IterationStatements.runtimeconfig.dev.json
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/IterationStatements/bin/Debug/net5.0/IterationStatements.dll
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/IterationStatements/bin/Debug/net5.0/ref/IterationStatements.dll
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/IterationStatements/bin/Debug/net5.0/IterationStatements.pdb
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/IterationStatements/obj/Debug/net5.0/IterationStatements.csprojAssemblyReference.cache
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/IterationStatements/obj/Debug/net5.0/IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/IterationStatements/obj/Debug/net5.0/IterationStatements.AssemblyInfoInputs.cache
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/IterationStatements/obj/Debug/net5.0/IterationStatements.AssemblyInfo.cs
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/IterationStatements/obj/Debug/net5.0/IterationStatements.csproj.CoreCompileInputs.cache
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/IterationStatements/obj/Debug/net5.0/IterationStatements.dll
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/IterationStatements/obj/Debug/net5.0/ref/IterationStatements.dll
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/IterationStatements/obj/Debug/net5.0/IterationStatements.pdb
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/IterationStatements/obj/Debug/net5.0/IterationStatements.genruntimeconfig.cache
